@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>423663070915-ikcgc47ebu4it69ithl86p18ddlas0sp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.423663070915-ikcgc47ebu4it69ithl86p18ddlas0sp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQtGnizTY7Rho_5ao0FAbF_C8OX6-GnmE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>423663070915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.com.fca.unam.proyectoFinal</string>
+	<key>PROJECT_ID</key>
+	<string>proyectofina-ef899</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyectofina-ef899.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:423663070915:ios:9c4fea855b134c43b73c76</string>
+	<key>DATABASE_URL</key>
+	<string>https://proyectofina-ef899.firebaseio.com</string>
+</dict>
+</plist>
